@@ -7,4 +7,5 @@ The flight is recorded using a LILYGO T-Beam which serves as teh primary flight 
 <img width="435" height="864" alt="Screenshot 2026-01-27 191101" src="https://github.com/user-attachments/assets/148b9a52-97ca-4984-a50f-2d5c60c5f373" />
 
 <img width="1754" height="457" alt="Screenshot 2026-01-25 232840" src="https://github.com/user-attachments/assets/7811820a-e9e5-4e00-a90f-8de7c21eee2c" />
-
+BOM link:
+https://docs.google.com/spreadsheets/d/1U2yEqBZTKHJVJrxIfUGXRck5QNupb0Gcpo2Jn2H-yjM/edit?usp=sharing
