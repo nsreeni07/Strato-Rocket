@@ -61,3 +61,11 @@ Finished up BOM and livery
 So I finished up my BOM today and added up the costs and it is coming close to 300 but I know some areas where I can reduce costs. I also worked on my github finished my README.md and Journal.md and I just have to add images and my 3d models, For some reason github didnt let me upload my avionics bay 3d model even though the nose cone stl file upload just fine which was kinda weird but I solved the issue. I also finished my livery today the whole rocket primarily is Blue and White and this is just a basic idea for the livery I think I'll make some mods to it when the time comes to really paint it.
 
 <img width="435" height="864" alt="Screenshot 2026-01-27 191101" src="https://github.com/user-attachments/assets/0142b99b-50da-4396-af65-4495c27bc835" />
+
+2/4
+So I had to redesign my rocket and reduce more costs on my BOM. I managed to remove my rail guide after emailing some clubs who would allow me to launch using their equipment which is nice of them. Also I redesigned my rocket and brought the stability to around 2 because previously it was at 3.47 which is over-stable. While over stable sounds good the rocket could sometimes turn aggresively towards the wind on launch day reduicing altidude or the rocket breaking apart due to high g's. I could have done several things to bring it to 2.0 cal but I first reduced the heigh to 105cm and I brought the trailing edges of the fin upwarda and more close to the body this helped make the rocket come to around 2.05 cal where I wanted it to be for a safe stable flight. Because of this my calculated altidude has gone up to 559m. Im
+
+<img width="1918" height="1121" alt="Screenshot 2026-02-03 222419" src="https://github.com/user-attachments/assets/ffc4ae2e-b7d8-4746-92ee-607593116ea0" />
+
+I also made a proper avionics schematic, My previous one was on paper and hand-drawn and turns out had some flaws so I used EASYEDA and made an online schematic, This one is more proffesional and easier to vizualize. It took some time to figure out the whole website because it was my first time but I learned pretty quickly! Im going to submit for a re-design review so we will see what happens!
+<img width="951" height="675" alt="Screenshot 2026-02-04 191757" src="https://github.com/user-attachments/assets/bf469c5c-6630-4ef5-9b81-ce83f37a5687" />
