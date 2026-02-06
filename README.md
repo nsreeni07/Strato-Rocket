@@ -8,5 +8,3 @@ The flight is recorded on a LILYGO T-Beam which serves as the primary flight com
 
 ![Screenshot 2026-02-04 174503](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg3OTYsInB1ciI6ImJsb2JfaWQifX0=--249fd19af7a11c2bc7fd22ef1c432a9bbfcf579f/Screenshot%202026-02-04%20174503.png)
 
-BOM link:
-https://docs.google.com/spreadsheets/d/1U2yEqBZTKHJVJrxIfUGXRck5QNupb0Gcpo2Jn2H-yjM/edit?usp=sharing
