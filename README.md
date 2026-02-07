@@ -1,6 +1,7 @@
 [Strato BOM - Sheet1.csv](https://github.com/user-attachments/files/25141894/Strato.BOM.-.Sheet1.csv)
 # Strato-Rocket
-Strato Rocket, My first mid-power rocket to get into rocketry, I built this rocket as a base to start my journey of building rockets!
+Strato Rocket, My first mid-power rocket to get into rocketry,
+I built this rocket as a base to start my journey of building rockets! I'm very passionate about aeronautics and this my first project to help me understnad develope my knowledge.
 Strato stands at 1.1m tall
 It reaches 560m in altitdude and has a top speed of mach 0.4
 The flight is recorded on a LILYGO T-Beam which serves as the primary flight computers and GPS. It also uses a BMP390 sensor to measure altiude through the flight. The rocket features an ESP32-Cam connected to an OV2640 camera to record fligth video. The flight recovery system uses a 36in parachute depolyed using black powder and will all be held together through a shock cord. 
@@ -8,53 +9,7 @@ The flight is recorded on a LILYGO T-Beam which serves as the primary flight com
 <img width="435" height="864" alt="Screenshot 2026-01-27 191101" src="https://github.com/user-attachments/assets/148b9a52-97ca-4984-a50f-2d5c60c5f373" />
 
 ![Screenshot 2026-02-04 174503](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg3OTYsInB1ciI6ImJsb2JfaWQifX0=--249fd19af7a11c2bc7fd22ef1c432a9bbfcf579f/Screenshot%202026-02-04%20174503.png)
+<img width="239" height="789" alt="Screenshot 2026-02-05 185922" src="https://github.com/user-attachments/assets/16c26a94-da83-45b1-88dd-9f6caed2a4c6" />
+<img width="951" height="675" alt="Screenshot 2026-02-04 191757" src="https://github.com/user-attachments/assets/a19d6843-1e0c-45bf-b9f2-c9704263f175" />
 
-
-Category,Name,Price,Source,Purpose,,Quantity
-Electronics,LILYGO T-Beam V1.1(915mhz),$66.64,https://lilygo.cc/en-us/products/t-beam?variant=51708943335605,"1 for rocket, 1 for ground tracking.",,2
-,ESP32-CAM + Antenna,$5.82,https://www.aliexpress.us/item/3256808866325459.html?spm=a2g0o.productlist.main.1.45cf1c43BfBg80&algo_pvid=a70c5c89-ad28-44bb-ae68-9854368ce9a6&algo_exp_id=a70c5c89-ad28-44bb-ae68-9854368ce9a6-0&pdp_ext_f=%7B%22order%22%3A%221568%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.87%210.99%21%21%2112.91%216.82%21%4021032f3717694011885657598e93b2%2112000047723470302%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A491563c7%3Bm03_new_user%3A-29895%3BpisId%3A5000000197847418&curPageLogUid=oFade5U532et&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009052640211%7C_p_origin_prod%3A,The camera Board,,1
-,OV2640 Camera,$4.23,https://www.aliexpress.us/item/3256802853835121.html?spm=a2g0o.productlist.main.1.6fa378cf6Tucjg&algo_pvid=8dcca10d-288d-496d-b792-2ca422486cd9&algo_exp_id=8dcca10d-288d-496d-b792-2ca422486cd9-0&pdp_ext_f=%7B%22order%22%3A%222341%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.23%210.99%21%21%214.23%210.99%21%402101f11417692897602004858ed515%2112000028124728462%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A491563c7%3Bm03_new_user%3A-29895%3BpisId%3A5000000197847450&curPageLogUid=UfVKb2GXfaaf&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003040149873%7C_p_origin_prod%3A,To record the flight,,1
-,MicroSD Card (32GB),$0.93,https://www.aliexpress.us/item/3256806229393591.html?spm=a2g0o.productlist.main.7.364f4475T67e23&algo_pvid=954d681a-eeef-42a7-9bf6-0b70e3654ce8&algo_exp_id=954d681a-eeef-42a7-9bf6-0b70e3654ce8-6&pdp_ext_f=%7B%22order%22%3A%2244913%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2119.34%215.25%21%21%21133.55%2136.23%21%402101e80317696446683731622e1583%2112000037088996844%21sea%21US%217130607314%21ABX%211%210%21n_tag%3A-29910%3Bd%3A491563c7%3Bm03_new_user%3A-29895%3BpisId%3A5000000198352209&curPageLogUid=WyZCICAxVsmn&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006415708343%7C_p_origin_prod%3A,Store Flight Video,,1
-,BMP390,$3.45,https://www.aliexpress.us/item/2255800994181054.html?spm=a2g0o.productlist.main.1.c419WGbEWGbE86&algo_pvid=7319659a-6eaf-4a7f-a170-ed95d8337fc4&algo_exp_id=7319659a-6eaf-4a7f-a170-ed95d8337fc4-0&pdp_ext_f=%7B%22order%22%3A%22131%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.45%210.99%21%21%213.45%210.99%21%402101e2b017701638247257095e40c9%2112000047965679427%21sea%21US%217130607314%21ABX%211%210%21n_tag%3A-29910%3Bd%3A491563c7%3Bm03_new_user%3A-29895%3BpisId%3A5000000197847450&curPageLogUid=dGdInjwT1f21&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4001180495806%7C_p_origin_prod%3A,To measure altitude.,,1
-,18650 Battery,$10.35,https://www.aliexpress.us/item/3256808362166008.html?spm=a2g0o.productlist.main.7.6d68hArBhArBbB&algo_pvid=03dacc5a-d6b1-442b-ab46-b7e7a54529c7&algo_exp_id=03dacc5a-d6b1-442b-ab46-b7e7a54529c7-6&pdp_ext_f=%7B%22order%22%3A%22241%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2125.40%216.89%21%21%21175.64%2147.64%21%402103123917695372654524478e2523%2112000045658833462%21sea%21US%217130607314%21ABX%211%210%21n_tag%3A-29910%3Bd%3A8a12c37a%3Bm03_new_user%3A-29895%3BpisId%3A5000000197847450&curPageLogUid=2qbFUt2Ljm59&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008548480760%7C_p_origin_prod%3A,Power for the rocket and ground station.,,1
-,28 AWG Silicone Wire,$0.99,https://www.aliexpress.us/item/3256808281675998.html?spm=a2g0o.productlist.main.7.1338OEH5OEH5fV&algo_pvid=203868b0-8479-4684-96c4-d2f93d8c4783&algo_exp_id=203868b0-8479-4684-96c4-d2f93d8c4783-6&pdp_ext_f=%7B%22order%22%3A%221749%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%216.47%210.99%21%21%2144.72%216.85%21%402103129017698280601803001ea169%2112000045273115775%21sea%21US%217130607314%21ABX%211%210%21n_tag%3A-29910%3Bd%3A491563c7%3Bm03_new_user%3A-29895%3BpisId%3A5000000197847450&curPageLogUid=2X2mvrthEp2S&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008467990750%7C_p_origin_prod%3A,Vibration-proof wiring.,,1
-,26 AWG sillicone Wire,$0.33,https://www.aliexpress.com/ssr/300000512/BundleDeals2?spm=a2g0o.cart.0.0.3b1e38dar4m3Pl&disableNav=YES&pha_manifest=ssr&_immersiveMode=true&_gl=1*1hxy5sj*_gcl_au*MTM4MTM0NTUzMy4xNzY4NTgwMzA5*_ga*MTQwNzU5Mjg3My4xNzcwNDM1MDg1*_ga_VED1YSGNC7*czE3NzA0MzUwODQkbzEkZzEkdDE3NzA0MzU5NDMkajQzJGwwJGgw,Vibration-proof wiring.,,1
-,Breadboard,$0.99,https://www.aliexpress.us/item/3256805886718277.html?spm=a2g0o.detail.0.0.5d3buB1IuB1I2V&mp=1&pdp_npi=6%40dis%21USD%21USD%203.61%21USD%200.99%21%21USD%200.99%21%21%21%4021033d9d17696466992783040e473e%2112000047024083008%21ct%21US%217130607314%21%211%210%21&_gl=1*ha73r*_gcl_au*MTM4MTM0NTUzMy4xNzY4NTgwMzA5*_ga*MzExNTkwMDk1LjE3Njk1MzcyNjc.*_ga_VED1YSGNC7*czE3Njk2NDQ1NjckbzUkZzEkdDE3Njk2NDY2OTkkajE2JGwwJGgw&gatewayAdapt=glo2usa,To validate Avionics Pre-Soldering,,1
-,Dupont Lines,$3.13,https://www.aliexpress.com/item/3256806675662297.html,Breadboard Connector Wire,,1
-,FTDI Adapter,$0.93,https://www.aliexpress.us/item/3256809629023516.html?spm=a2g0o.productlist.main.5.22f2O1YnO1YnKB&algo_pvid=f149eec0-c1a1-4b35-8dc0-8d9d73a23635&algo_exp_id=f149eec0-c1a1-4b35-8dc0-8d9d73a23635-4&pdp_ext_f=%7B%22order%22%3A%2239%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2115.76%212.07%21%21%21108.91%2114.27%21%402101e83017697949156352850ed50b%2112000050262043612%21sea%21US%217130607314%21ABX%211%210%21n_tag%3A-29910%3Bd%3A491563c7%3Bm03_new_user%3A-29895%3BpisId%3A5000000197847450&curPageLogUid=XFHxIe2sLgIZ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009815338268%7C_p_origin_prod%3A,Needed to program the ESP32-CAM.,,1
-,,,,,,
-Category,Name,Price,Source,Purpose,,Quantity
-Hardware,1010 Rail Buttons,$5.58,https://www.apogeerockets.com/Building_Supplies/Rail_Buttons/1in_1010_Rail_Button_Standard,Rail Buttons to Slot Rocket into Launch Rail,,1
-,Epoxy,$3.48,https://www.aliexpress.us/item/3256806928842047.html?spm=a2g0o.productlist.main.4.60cb4d670itQJL&aem_p4p_detail=20260125193001900811354446460003066439&algo_pvid=614bbefc-a7cf-463a-b2b1-e7eeb5c7c145&algo_exp_id=614bbefc-a7cf-463a-b2b1-e7eeb5c7c145-3&pdp_ext_f=%7B%22order%22%3A%223407%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2110.19%210.99%21%21%2170.50%216.90%21%40210319b717693982009855459eabf7%2112000039451193477%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A491563c7%3Bm03_new_user%3A-29895%3BpisId%3A5000000197847450&curPageLogUid=85fsDtkmUIUq&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007115156799%7C_p_origin_prod%3A&search_p4p_id=20260125193001900811354446460003066439_1,Adhesive ,,2
-,Balsa Wood,$7.99,https://www.amazon.com/gp/product/B096P4G1RR/ref=ewc_pr_img_8?smid=A3BTZYV8IYFCZ9&th=1,To Make Engine Centering Rings and Fins,,1
-,Engine Mount,$5.49,https://www.apogeerockets.com/Building-Supplies/Body-Tubes/29mm-to-54mm-Tubes/29mm-Engine-Mount-Tube-Set-2-pk,Engine Mount Tube,,1
-,Recovery Wadding,$5.99,https://estesrockets.com/products/recovery-wadding?srsltid=AfmBOoq_fUgVRpxw-speCfkQRm_6fdd00M9npsWQOKwA-Y2BSnWIx7zF,Parachute Protection during ejection charge,,1
-,Parachute Materials,$17.99,https://estesrockets.com/products/rip-stop-parachute?_pos=1&_sid=acb6b3712&_ss=r&variant=51539308052785,Brings Rocket down safely,,1
-,Kevlar Cord,$9.40,https://www.apogeerockets.com/Building_Supplies/Parachutes_Recovery_Equipment/Shock_Cord/Kevlar_Cord_300,Attaches Stages Together,,1
-,M6 Eye Bolts 30mm,$0.99,https://www.aliexpress.us/item/3256803591110349.html?spm=a2g0o.productlist.main.6.791f3cd2x0cIxh&algo_pvid=0726246a-3f83-4798-8d8e-82f313ba36bc&algo_exp_id=0726246a-3f83-4798-8d8e-82f313ba36bc-5&pdp_ext_f=%7B%22order%22%3A%22264%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.96%210.99%21%21%211.96%210.99%21%402101e62517696572140114099e5e11%2112000027131581755%21sea%21US%217130607314%21ABX%211%210%21n_tag%3A-29910%3Bd%3A491563c7%3Bm03_new_user%3A-29895%3BpisId%3A5000000197847418&curPageLogUid=qfiumtPNFlXN&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003777425101%7C_p_origin_prod%3A,For attaching Shock cords to main Body,,1
-,M6 Nylon Hex Spacers ,$0.99,https://www.aliexpress.us/item/2251832781404540.html?spm=a2g0o.productlist.main.1.311drnZFrnZFII&algo_pvid=53a2b73f-1bad-4859-a41f-df382c970e53&algo_exp_id=53a2b73f-1bad-4859-a41f-df382c970e53-0&pdp_ext_f=%7B%22order%22%3A%2215%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.23%210.99%21%21%214.23%210.99%21%402101e80f17698247156235928e3682%2166559626813%21sea%21US%217130607314%21ABX%211%210%21n_tag%3A-29910%3Bd%3A491563c7%3Bm03_new_user%3A-29895%3BpisId%3A5000000197847450&curPageLogUid=LcxbOMtPaPdd&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32967719292%7C_p_origin_prod%3A,To Seperate wires and PCBS,,1
-,Wood Filler,$9.99,https://www.amazon.com/gp/product/B07JPB64XH/ref=ewc_pr_img_1?smid=A3I7U6FHIJ15X2&psc=1,To thicken Epoxy ,,1
-,,,,,,
-,,,,,,
-Category,Name,Price,Source,Purpose,,Quantity
-Self-Bought,G78G-7,$0.00,Buying Myself,Rocket Motor,,1
-,Solder,$0.00,Buying Myself,To solder wires to Avionics,,1
-,3d Printed Nose Cone ,$0.00,Buying Myself,Nose Cone,,1
-,3d Avionics Bay,$0.00,Buying Myself,Hold Electronics ,,1
-,Spray Paint,$0.00,Buying Myself,To Paint Rocket,,1
-,PVC 5-Way,$0.00,Buying Myself,For Rocket Launch Stand,,1
-,Main Body Tube,$0.00,https://locprecision.com/products/slotted-cardboard-airframes?variant=39778658582719,Body Tube ,,2
-,Sandpaper,$0.00,Buying Myself,Smooth surfaces,,1
-,USB to TTL Serial 5V Adapter ,$2.07,https://www.aliexpress.us/item/3256809629023516.html?spm=a2g0o.productlist.main.5.22f2O1YnO1YnKB&algo_pvid=f149eec0-c1a1-4b35-8dc0-8d9d73a23635&algo_exp_id=f149eec0-c1a1-4b35-8dc0-8d9d73a23635-4&pdp_ext_f=%7B%22order%22%3A%2239%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2115.76%212.07%21%21%21108.91%2114.27%21%402101e83017697949156352850ed50b%2112000050262043612%21sea%21US%217130607314%21ABX%211%210%21n_tag%3A-29910%3Bd%3A491563c7%3Bm03_new_user%3A-29895%3BpisId%3A5000000197847450&curPageLogUid=XFHxIe2sLgIZ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009815338268%7C_p_origin_prod%3A,To connect Bmp280 and FTDI adapter for programming.,,1
-,,,,,,
-,,,,,,
-Below Totals contain Tax and Shipping ,,,,,,
-,,,,,,
-Lilygo Total,$82.64,,,,,
-Aliexpress Total ,$38.84,,,,,
-Amazon Total,$26.62,,,,,
-LOC Total,$0.00,,,,,
-Estes Total,$33.07,,,,,
-Apogee Total,$29.60,,,,,
-,,,,,,
-Grant Total:,$210.77,,,,,
+<img width="951" height="675" alt="Screenshot 2026-02-04 191757" src="https://github.com/user-attachments/assets/99eec98c-2dd3-4b23-ad4f-481e1fe1dc4e" />
