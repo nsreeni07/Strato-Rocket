@@ -1,10 +1,16 @@
+Description
 
-Strato Rocket, My first mid-power rocket to get into rocketry,
-I built this rocket as a base to start my journey of building rockets! I'm very passionate about aeronautics and this my first project to help me understnad develope my knowledge.
-Strato stands at 1.1m tall
-It reaches 560m in altitdude and has a top speed of mach 0.4
-The flight is recorded on a LILYGO T-Beam which serves as the primary flight computers and GPS. It also uses a BMP390 sensor to measure altiude through the flight. The rocket features an ESP32-Cam connected to an OV2640 camera to record fligth video. The flight recovery system uses a 36in parachute depolyed using black powder and will all be held together through a shock cord. 
+Strato is my first mid-power rocket, built as an introduction to rocketry and aerospace engineering. It stands 1.1 meters tall, reaches about 560 meters in altitude, and travels up to Mach 0.4. The rocket includes onboard avionics for GPS tracking, altitude measurement, and flight video recording.
 
+The flight computer is a LILYGO T-Beam (ESP32-based) that logs GPS and telemetry data. A BMP390 measures altitude throughout the flight. An ESP32-CAM with an OV2640 records onboard video. The rocket uses a 36-inch parachute deployed by a black powder charge for safe recovery.
+
+How to Use
+
+Before launch, assemble the motor, recovery system, and avionics. Power on the flight computer and confirm GPS lock and sensor readings. After launch, the system automatically records flight data and deploys the parachute at apogee. After landing, retrieve the rocket and download the recorded data and video.
+
+Why I Made This Project
+
+I built Strato to begin my journey into rocketry and aerospace engineering. I wanted hands-on experience with avionics, sensors, telemetry, and recovery systems. This project helped me develop practical engineering skills and build a foundation for more advanced rockets in the future.
 <img width="435" height="864" alt="Screenshot 2026-01-27 191101" src="https://github.com/user-attachments/assets/148b9a52-97ca-4984-a50f-2d5c60c5f373" />
 
 <img width="239" height="789" alt="Screenshot 2026-02-05 185922" src="https://github.com/user-attachments/assets/16c26a94-da83-45b1-88dd-9f6caed2a4c6" />
