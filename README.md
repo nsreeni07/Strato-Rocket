@@ -12,7 +12,7 @@ Why I Made This Project
 
 I built Strato to begin my journey into rocketry and aerospace engineering. I wanted hands-on experience with avionics, sensors, telemetry, and recovery systems. This project helped me develop practical engineering skills and build a foundation for more advanced rockets in the future.
 
-<img width="1867" height="1400" alt="Strato Rocket" src="https://github.com/user-attachments/assets/5c80ed5b-4e7c-4caf-9ea3-b57dca37bddf" />
+<img width="1867" height="1400" alt="IMG_0525 (1)" src="https://github.com/user-attachments/assets/304af3ca-8356-4837-bd19-09bb1fe4db57" />
 
 <img width="435" height="864" alt="Screenshot 2026-01-27 191101" src="https://github.com/user-attachments/assets/148b9a52-97ca-4984-a50f-2d5c60c5f373" />
 
