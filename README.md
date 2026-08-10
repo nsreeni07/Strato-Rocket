@@ -11,6 +11,9 @@ Before launch, assemble the motor, recovery system, and avionics. Power on the f
 Why I Made This Project
 
 I built Strato to begin my journey into rocketry and aerospace engineering. I wanted hands-on experience with avionics, sensors, telemetry, and recovery systems. This project helped me develop practical engineering skills and build a foundation for more advanced rockets in the future.
+
+<img width="1867" height="1400" alt="Strato Rocket" src="https://github.com/user-attachments/assets/5c80ed5b-4e7c-4caf-9ea3-b57dca37bddf" />
+
 <img width="435" height="864" alt="Screenshot 2026-01-27 191101" src="https://github.com/user-attachments/assets/148b9a52-97ca-4984-a50f-2d5c60c5f373" />
 
 <img width="239" height="789" alt="Screenshot 2026-02-05 185922" src="https://github.com/user-attachments/assets/16c26a94-da83-45b1-88dd-9f6caed2a4c6" />
